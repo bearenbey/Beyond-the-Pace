@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "slug": "hello-world",
+      "title": "Hello, Blog",
+      "date": "2025-10-19",
+      "excerpt": "First post to verify rendering.",
+      "readTime": "1 min",
+      "tags": ["meta"],
+      "content_html": "<p>If you can read this, the blog loader works.</p>"
+    }
+  ]
+}
